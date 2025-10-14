@@ -1,0 +1,6 @@
+Documento inicial de artefatos do projeto de software — empresaX
+Responsável: Felipe Augusto
+Papel: Responsável ITIL
+Data: 14/10/2025
+
+Descrição: Arquivo de exemplo para iniciar o controle de artefatos no repositório. Contém registro inicial do repositório, objetivos e estrutura mínima.
